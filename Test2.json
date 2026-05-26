@@ -20,13 +20,13 @@
       "heading": 0,
       "width": 0.2,
       "height": 0.2,
-      "radius": 0.14,
+      "radius": 0.125,
       "speed": 0.3,
       "startDelay": 0,
       "shapeType": "rect",
       "waypoints": [
         {
-          "x": 1.4947747181831974,
+          "x": 1.49477414581831974,
           "y": 0.8244305309554337,
           "pause": 0
         },
