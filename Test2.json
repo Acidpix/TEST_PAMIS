@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "savedAt": "2026-05-26T15:50:30.400Z",
+  "meta": {
+    "simMaxTime": 30,
+    "simSpeed": 1,
+    "gridColor": "#ffffff",
+    "gridMinorStep": 10,
+    "gridMajorStep": 50,
+    "viewportColor": "#2d6e3e",
+    "canvasBgColor": "#2e4a76"
+  },
+  "robots": [
+    {
+      "id": "r_1779807430057_1",
+      "name": "Robot 1",
+      "color": "#e03131",
+      "x": 1.0328598055778502,
+      "y": 0.7032039928056139,
+      "heading": 0,
+      "width": 0.2,
+      "height": 0.2,
+      "radius": 0.14,
+      "speed": 0.3,
+      "startDelay": 0,
+      "shapeType": "rect",
+      "waypoints": [
+        {
+          "x": 1.4947747181831974,
+          "y": 0.8244305309554337,
+          "pause": 0
+        },
+        {
+          "x": 2.368441837952587,
+          "y": 1.1860200326781716,
+          "pause": 0
+        }
+      ]
+    }
+  ],
+  "obstacles": []
+}
